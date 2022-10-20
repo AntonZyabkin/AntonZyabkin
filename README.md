@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ My name is Anton and I am aspiring iOS engeneer. PM me to communicate on Telegram: @AntonZyabkin
+
 <!--
 **AntonZyabkin/AntonZyabkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
