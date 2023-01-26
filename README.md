@@ -1,18 +1,13 @@
-### Hi there 👋
 
- My name is Anton and I am aspiring iOS engeneer. PM me to communicate on Telegram: @AntonZyabkin
+## Hello, this is Anatan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> 
+[![Linkedin Badge](https://img.shields.io/badge/-AntonZyabkin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](www.linkedin.com/in/AntonZyabkin) [![Telegram Bage](https://img.shields.io/badge/-AntonZyabkin-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/antonzyabkin) [![Gmail Badge](https://img.shields.io/badge/-zyabkinantonv@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:zyabkinantonv@gmail.com)
+I am a passionate software developer based in Moscow, Russia and working on Lazovolene iOS app as a developer. I strive to create concise applications using modern technologies. I love learning new things and putting them into practice right away. I love to work on complex tasks, sometimes for several weeks at a time.
 
-<!--
-**AntonZyabkin/AntonZyabkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current works
+* Started learning Combine and SwiftUI!!!
+* I am currently working on building mobile apps using Swift and am working on improving my competitive programming skills.
+* learning Advanced Swift by Chris Eidhof
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonZyabkin)](https://github.com/AntonZyabkin/github-readme-stats)
