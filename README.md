@@ -8,7 +8,7 @@ I am a passionate software developer based in Moscow, Russia and working on Lazo
 
 ## Current works
 * Started learning Combine and SwiftUI!!!
-* I am currently working on building mobile apps using Swift and am working on improving my competitive programming skills.
+* I am currently working on building [LazybonesApp](https://github.com/AntonZyabkin/LazybonesApp) using Swift and am working on improving my competitive programming skills.
 * learning Advanced Swift by Chris Eidhof
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonZyabkin)](https://github.com/AntonZyabkin/github-readme-stats)
